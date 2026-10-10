@@ -1,0 +1,76 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+50031614,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,technology,128,63,rociiu,2026-10-10T21:36:08,0.4883720930232558,False
+50016956,Mxc: Microsoft Execution Containers version 1.0.0,technology,35,2,smokel,2026-10-10T21:36:11,0.05555555555555555,False
+50019911,Cloudflare acquires Deno,technology,1303,673,ilreb,2026-10-10T21:36:13,0.5161042944785276,True
+50031269,`123456' password used in Danish CPR data breach,technology,301,168,baal80spam,2026-10-10T21:36:15,0.5562913907284768,True
+50033517,My personal AI agent posted my bank details on company Slack,technology,32,31,bhrlady,2026-10-10T21:36:16,0.9393939393939394,False
+50021410,Can you use autoregressive diffusion to generate market data?,technology,147,41,jsomers,2026-10-10T21:36:21,0.27702702702702703,False
+50024499,"Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",technology,378,45,simplyalec,2026-10-10T21:36:25,0.11873350923482849,True
+50024090,What mathematicians should know about the Lean Theorem Prover: reliability & AI,technology,165,41,matt_d,2026-10-10T21:36:29,0.2469879518072289,False
+50029982,Computers Cannot Make Decisions,technology,164,135,heavensteeth,2026-10-10T21:36:30,0.8181818181818182,False
+50023450,Typesafe AI raises $870M at $7.5B,technology,412,329,tosh,2026-10-10T21:36:32,0.7966101694915254,True
+50019056,"Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",technology,175,88,piratebroadcast,2026-10-10T21:36:33,0.5,True
+50029830,Food processing influences metabolism and brain activity,technology,81,70,gmays,2026-10-10T21:36:37,0.8536585365853658,False
+50024055,Show HN: The rarest tech books and docs you've probably never read,technology,153,57,miletus,2026-10-10T21:36:41,0.37012987012987014,False
+50032590,Software developers are not okay,technology,22,16,theHocineSaad,2026-10-10T21:36:42,0.6956521739130435,False
+50031156,"AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",technology,23,0,DeepLogin,2026-10-10T21:36:46,0.0,False
+50018817,"Show HN: Let your AI agents paint big arrows, boxes and text on your screen",technology,403,183,franze,2026-10-10T21:36:47,0.452970297029703,True
+50029487,The Lightbulb Computer,technology,21,6,oskarth,2026-10-10T21:36:48,0.2727272727272727,False
+50027118,"Anthropic AI model submits false tip on unsolved Philly murder, police say",technology,195,139,Zambyte,2026-10-10T21:36:49,0.7091836734693877,True
+49995495,Man discovers his parents' coffee machine used 1TB of data in 10 days,technology,941,566,ck2,2026-10-10T21:36:50,0.6008492569002123,True
+49984923,Sharing AI progress in mathematics,technology,1346,1526,OfficialTurkey,2026-10-10T21:36:53,1.1328878990348923,True
+50018350,"OpenAI fires three safety researchers for ""mishandling research information""",technology,347,216,trakkstar,2026-10-10T21:36:54,0.6206896551724138,True
+50002665,I think I found a planet nobody knew existed. I used Claude Code to find it,technology,282,128,pyduan,2026-10-10T21:36:55,0.45229681978798586,True
+50013902,"OpenAI, the Partition Principle, and Mathematics",technology,204,307,md224,2026-10-10T21:37:00,1.497560975609756,True
+49983582,Training Text-to-Image Models Without a VAE,technology,53,19,schopra909,2026-10-10T21:37:05,0.35185185185185186,False
+50029896,"If AI keeps evolving,would you worry about your next generation's survival",technology,22,35,hanstyle,2026-10-10T21:37:07,1.5217391304347827,False
+50033407,Bitwarden Dual License Model,worldnews,123,69,Cider9986,2026-10-10T21:37:10,0.5564516129032258,False
+50034081,Knuth Reward Check,worldnews,9,1,Curiositry,2026-10-10T21:37:12,0.1,False
+50020901,Getting old Macromedia Director Games to run on modern Hardware,worldnews,21,5,speckx,2026-10-10T21:38:27,0.22727272727272727,False
+49991243,"God of War on PSP, recompiled to WebAssembly and running in the browser",worldnews,241,111,sn001,2026-10-10T21:38:44,0.45867768595041325,True
+49987858,The art of defusing a second world war bomb,worldnews,151,115,sandebert,2026-10-10T21:38:48,0.756578947368421,False
+49994065,Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware,worldnews,73,48,0bytes,2026-10-10T21:40:08,0.6486486486486487,False
+49983703,Paramount Skydance has completed its $111B merger with Warner Bros. Discovery,worldnews,271,519,Mgtyalx,2026-10-10T21:41:14,1.9080882352941178,True
+50027454,The RAMpocalypse has led global PC shipments to drop 20 percent,worldnews,7,0,GeekyBear,2026-10-10T21:41:17,0.0,False
+50013637,Fort Hood attacker's execution by firing squad will be livestreamed,worldnews,106,52,mo7061,2026-10-10T21:41:24,0.48598130841121495,False
+49983262,Terraform Meets Proxmox: Lessons from a VMware Migration,worldnews,39,3,ultral,2026-10-10T21:41:56,0.075,False
+49971782,Global Solar Atlas: summary of solar power potential globally,worldnews,74,68,stratts,2026-10-10T21:43:24,0.9066666666666666,False
+49991823,Google Playground: Create and play custom games,sports,164,231,acossta,2026-10-10T21:45:42,1.4,False
+50026543,Mass Driver: Solar system routing mini-game,sports,11,2,scottyah,2026-10-10T21:46:00,0.16666666666666666,False
+49996406,Teams in Vienna and Beijing have built the first thorium nuclear clocks,sports,186,51,gumby,2026-10-10T21:46:22,0.2727272727272727,True
+49991220,"My wife's turtle, Bogdan, passed away, so I made a game to honor him",sports,14,4,Piterniel,2026-10-10T21:48:41,0.26666666666666666,False
+50009756,NFL asks Supreme Court to regulate prediction markets at the state level,sports,13,1,lucaspauker,2026-10-10T21:49:48,0.07142857142857142,False
+50010764,Ask HN: Is the Steam Machine worth $1049?,sports,12,14,bigwheels,2026-10-10T21:50:04,1.0769230769230769,False
+50033678,Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal,science,6,0,utiiiD,2026-10-10T21:51:14,0.0,False
+49976265,Nobel Prize in Physics 2026: Francis Halzen,science,581,213,solarist,2026-10-10T21:53:25,0.36597938144329895,True
+50019741,Study: Exercise increases cancer survival rates,science,76,42,RickJWagner,2026-10-10T21:54:01,0.5454545454545454,False
+49976823,Nature's capacity to 'bounce back' when species are lost is overestimated: study,science,353,178,pseudolus,2026-10-10T21:54:17,0.5028248587570622,True
+49994746,"Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",science,97,41,sbulaev,2026-10-10T21:55:51,0.41836734693877553,False
+49971678,Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf],science,36,0,ibobev,2026-10-10T21:56:13,0.0,False
+50011982,SpaceX to Acquire Low-Band Spectrum for Mobile Phone Service,science,16,2,mfiguiere,2026-10-10T21:56:55,0.11764705882352941,False
+49998349,SpaceX credit risk jumps on worries over its borrowing spree,science,24,2,JumpCrisscross,2026-10-10T21:57:32,0.08,False
+50003545,Show HN: Proton Drive for Linux,entertainment,110,39,khaosdoctor,2026-10-10T21:58:09,0.35135135135135137,False
+50007764,"Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",entertainment,144,38,AnneWodell,2026-10-10T21:58:49,0.2620689655172414,False
+50029607,"Show HN: A simple to-do app for iPhone, Mac, and your agent",entertainment,14,15,shmilia,2026-10-10T21:59:06,1.0,False
+50000985,US man given prison sentence for bot-farming music streams,entertainment,209,299,cdrnsf,2026-10-10T21:59:06,1.4238095238095239,True
+50016312,"Show HN: Quake ported to safe Rust, playable in browser",entertainment,230,176,ilreb,2026-10-10T21:59:13,0.7619047619047619,True
+50017301,"Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",entertainment,65,2,zxdc7896,2026-10-10T21:59:28,0.030303030303030304,False
+50008047,"Show HN: Making a flexible ""neon"" t-shirt with LED filaments",entertainment,219,37,scottbez1,2026-10-10T21:59:30,0.16818181818181818,True
+49994443,Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app,entertainment,716,163,SpeakingOfBrad,2026-10-10T21:59:34,0.22733612273361228,True
+50026819,Show HN: Babytalk: Offline speech to text and text to speech on ESP32,entertainment,12,6,tlack,2026-10-10T21:59:36,0.46153846153846156,False
+50016840,"Show HN: OldRoll, a free vintage photo editor for the browser",entertainment,16,5,awa11,2026-10-10T22:00:02,0.29411764705882354,False
+50009904,"Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",entertainment,68,53,pierreneter,2026-10-10T22:00:04,0.7681159420289855,False
+50009634,Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked,entertainment,32,20,lukeed,2026-10-10T22:00:08,0.6060606060606061,False
+49992057,Show HN: A walkable 3D art history museum built from Wikipedia,entertainment,172,66,jasontr,2026-10-10T22:00:13,0.3815028901734104,True
+50028283,Show HN: Yeah Nah – a BS score for Australian job ads,entertainment,13,3,veilmux,2026-10-10T22:00:28,0.21428571428571427,False
+49980399,Show HN: Durable Actors – OSS Durable Objects with configurable compute,entertainment,52,25,thomask1995,2026-10-10T22:00:38,0.4716981132075472,False
+50013931,Show HN: SVG Spark – 10 client-side SVG design and dev tools,entertainment,44,7,Zeus808,2026-10-10T22:00:39,0.15555555555555556,False
+49991986,Show HN: Procinsh – A 3D Linux process inspector,entertainment,60,25,a_kawashiro,2026-10-10T22:00:44,0.4098360655737705,False
+50005276,Show HN: Wordminos – Crosswords Meet Dominos,entertainment,22,9,dyarosla,2026-10-10T22:00:45,0.391304347826087,False
+49998595,Book recommendations from Hacker News?,entertainment,40,8,bookofjoe,2026-10-10T22:00:52,0.1951219512195122,False
+50015486,Anger as man sentenced to death for Facebook comment,entertainment,72,67,bcaulfield,2026-10-10T22:01:05,0.9178082191780822,False
+49978595,Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer,entertainment,86,39,pentakkusu,2026-10-10T22:01:07,0.4482758620689655,False
+50012880,Show HN: I built a fast spreadsheet engine for the web in Rust/WASM,entertainment,8,2,deathg0d,2026-10-10T22:01:17,0.2222222222222222,False
+50006760,"Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",entertainment,14,3,dkgs,2026-10-10T22:01:26,0.2,False
+50025852,Netflix plans to cut 5% of its workforce,entertainment,34,6,theanonymousone,2026-10-10T22:04:56,0.17142857142857143,False
+50015833,Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes,entertainment,7,2,jbaudanza,2026-10-10T22:05:06,0.25,False
